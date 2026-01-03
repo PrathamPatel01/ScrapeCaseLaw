@@ -5,7 +5,7 @@
 The goal of this project is to scrape case law data from  
 **The National Archives – Find Case Law** website.
 
-Specifically, we are required to:
+Specificallly, we are required to:
 - Scrape the **first three pages** of the case law search results
 - Collect **metadata** for each case:
   - Title
